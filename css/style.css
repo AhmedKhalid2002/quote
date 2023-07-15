@@ -1,0 +1,26 @@
+h1{
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    text-align: center;
+}
+button{
+    display: block;
+    padding: 35px 50px;
+    margin: auto;
+    border: 1px solid black;
+    background-color: blue;
+    color: white;
+    margin-block: 20px;
+}
+button:hover{
+    background-color: green;
+}
+q{
+    font-size: 30px;
+    text-align: center;
+    display: block;
+}
